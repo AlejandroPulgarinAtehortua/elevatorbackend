@@ -31,6 +31,8 @@
 ```bash
 $ npm install
 ```
+## important note
+this proyect runs on port 3001
 
 ## Compile and run the project
 
